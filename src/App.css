@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  border: solid black 1px;
+  table-layout: fixed;
+  width: 20%;
+  margin: 1em;
+}
+
+table tr:nth-child(even) {
+  background: darkgray;
+}
