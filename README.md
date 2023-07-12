@@ -6,7 +6,6 @@ Small UI app to integration with Express TODO API
 In the project directory, you can run:
 
 ### `npm start`
-**Note:** to run on port 3001, run `set PORT=3001 && npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

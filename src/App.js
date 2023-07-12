@@ -3,7 +3,7 @@ import {useEffect, useState} from "react";
 import axios from "axios";
 import TodoTable from "./TodoTable";
 
-const apiBaseUrl = "http://localhost:3000";
+const apiBaseUrl = "http://localhost:3001";
 
 function App() {
     const [todoList, setTodoList] = useState([]);
